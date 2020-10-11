@@ -1,1 +1,1 @@
-print('Hello World from Jenkins test in EC2')
+print('Hello World from Jenkins')
